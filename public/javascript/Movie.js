@@ -121,7 +121,7 @@ xhttpAside1.onload = function() {
                                     <p>${element.vote_average}</p>
                                 </div>
                                 <div class="aside-tahun">
-                                    ${element.release_date.slice}
+                                    ${element.release_date}
                                 </div>
                             </div>
                             <div class="aside-judul">
